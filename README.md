@@ -1,4 +1,3 @@
-![1](https://user-images.githubusercontent.com/46806903/121864791-b84d9980-cd16-11eb-97c0-d0a1e040d4b6.PNG)
 # Zameen.com
 Replicated the zameen.com functionality
 
@@ -11,3 +10,5 @@ In order to run this program, do the following:
   3- Run the  zamee.com file in src. 
 
 ***This project has very basic front end which is built on simple console.***
+
+![1](https://user-images.githubusercontent.com/46806903/121864791-b84d9980-cd16-11eb-97c0-d0a1e040d4b6.PNG)
