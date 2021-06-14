@@ -12,3 +12,6 @@ In order to run this program, do the following:
 ***This project has very basic front end which is built on simple console.***
 
 ![1](https://user-images.githubusercontent.com/46806903/121864791-b84d9980-cd16-11eb-97c0-d0a1e040d4b6.PNG)
+
+![2](https://user-images.githubusercontent.com/46806903/121865565-8d177a00-cd17-11eb-9d36-6235a12edc0a.PNG)
+
