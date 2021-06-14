@@ -5,9 +5,9 @@ This is kind of project that deals with the buying and selling of the Real Estat
 This project file includes entire project along with the schema for the sql database and the class diagram that can be viewed on star uml. 
 
 In order to run this program, do the following:
-  1- Install requirements of java.
-  2- Use the schema file to build the database.
-  3- Run the  zamee.com file in src. 
+  1. Install requirements of java.
+  2. Use the schema file to build the database.
+  3. Run the  zameen.com file in src. 
 
 ***This project has very basic front end which is built on simple console.***
 
